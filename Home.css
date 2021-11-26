@@ -7,17 +7,17 @@
 }
 
 .u-section-1 .u-shape-1 {
-  width: 141px;
-  height: 141px;
+  width: 193px;
+  height: 193px;
   animation-duration: 1000ms;
-  margin: 581px -47px 0 auto;
+  margin: 561px -59px 0 auto;
 }
 
 .u-section-1 .u-shape-2 {
   width: 250px;
   height: 250px;
   animation-duration: 1000ms;
-  margin: -632px auto 0 -61px;
+  margin: -664px auto 0 -61px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -63,6 +63,8 @@
   }
 
   .u-section-1 .u-shape-1 {
+    width: 141px;
+    height: 141px;
     margin-top: 534px;
     margin-right: -36px;
   }
