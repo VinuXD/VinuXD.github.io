@@ -35167,10 +35167,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
- .u-header {
-  background-image: none;
-}
-
 .u-header .u-sheet-1 {
   min-height: 80px;
 }
@@ -35236,16 +35232,16 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    width: 154px;
-    margin-top: 39px;
-    margin-left: auto;
-    margin-right: auto;
+    width: auto;
+    margin-top: 129px;
+    margin-right: 194px;
   }
 
   .u-footer .u-text-2 {
-    width: 340px;
-    margin-top: 28px;
+    width: auto;
+    margin-top: -84px;
     margin-right: 0;
+    margin-bottom: 60px;
   }
 }
 
