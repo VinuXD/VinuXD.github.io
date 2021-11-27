@@ -10,6 +10,7 @@
   width: 193px;
   height: 193px;
   animation-duration: 1000ms;
+  transition-duration: 0.5s;
   margin: 561px -59px 0 auto;
 }
 
@@ -17,6 +18,7 @@
   width: 250px;
   height: 250px;
   animation-duration: 1000ms;
+  transition-duration: 0.5s;
   margin: -664px auto 0 -61px;
 }
 
@@ -38,10 +40,13 @@
   font-size: 4.5rem;
   font-weight: 400;
   font-family: titillium-Web;
+  animation-duration: 1250ms;
+  transition-duration: 0.5s;
   margin: 0;
 }
 
 .u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
   margin: 20px 14px 0 0;
 }
 
@@ -53,6 +58,8 @@
   letter-spacing: 1px;
   align-self: center;
   background-image: none;
+  transition-duration: 0.5s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
   margin: 29px auto 0 0;
   padding: 15px 46px 15px 45px;
 }
@@ -67,6 +74,7 @@
     height: 141px;
     margin-top: 534px;
     margin-right: -36px;
+    transform: scale(1.26);
   }
 
   .u-section-1 .u-shape-2 {
@@ -93,10 +101,17 @@
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
     margin-top: 34px;
+    transform: translateX(0px) translateY(-5px) scale(1);
   }
 
   .u-section-1 .u-text-2 {
     margin-right: 0;
+    transition-duration: 1.5s;
+    transform: scale(1.1) translateX(0px) translateY(0px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    transform: scale(1);
   }
 }
 
@@ -203,8 +218,44 @@
     font-size: 2.5rem;
     margin-top: 14px;
   }
+}
+
+.u-section-1 .u-text-1 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-text-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1 .u-btn-1 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-btn-1:hover {
+  box-shadow: -2px -2px 13px 0 rgba(128,128,128,1) !important;
+  border-radius: 20px !important;
+  transform: scale(1) !important;
+}
+
+.u-section-1 .u-shape-2 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-shape-2:hover {
+  border-radius: 10px !important;
+  transform: scale(1.25) !important;
+}
+
+.u-section-1 .u-shape-1 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-shape-1:hover {
+  border-radius: 10px !important;
+  transform: scale(1.26) !important;
 } .u-section-2 {
-  background-image: url("images/14.jpg");
   background-position: 50% 50%;
 }
 
@@ -220,6 +271,9 @@
 
 .u-section-2 .u-text-1 {
   font-size: 4.5rem;
+  animation-duration: 1000ms;
+  transition-duration: 0.5s;
+  font-weight: 400;
   margin: 0 auto;
 }
 
@@ -231,7 +285,14 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1.25rem;
+  animation-duration: 1000ms;
+  transition-duration: 0.5s;
   margin: 19px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-2 .u-group-2 {
@@ -240,7 +301,7 @@
   margin: 65px auto 60px;
 }
 
-.u-section-2 .u-btn-1 {
+.u-section-2 .u-btn-2 {
   border-style: solid;
   font-weight: 700;
   letter-spacing: 1px;
@@ -249,6 +310,7 @@
   text-transform: none;
   background-image: none;
   animation-duration: 1000ms;
+  transition-duration: 0.5s;
   margin: 0 15px 0 auto;
   padding: 14px 43px 15px 42px;
 }
@@ -256,6 +318,10 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 577px;
+  }
+
+  .u-section-2 .u-text-2 {
+    transform: translateX(0px) translateY(-5px) scale(1.04);
   }
 }
 
@@ -281,7 +347,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 209px;
+    min-height: 805px;
   }
 
   .u-section-2 .u-group-1 {
@@ -298,15 +364,42 @@
 
   .u-section-2 .u-group-2 {
     min-height: 158px;
+    margin-top: 19px;
   }
 
-  .u-section-2 .u-btn-1 {
+  .u-section-2 .u-btn-2 {
     margin-top: 89px;
     margin-right: auto;
   }
+}
+
+.u-section-2 .u-btn-2 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-2 .u-btn-2:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  border-radius: 36px !important;
+  box-shadow: 0 2px 8px 0 rgba(128,128,128,1) !important;
+}
+
+.u-section-2 .u-text-1 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-2 .u-text-1:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  font-weight: bold !important;
+}
+
+.u-section-2 .u-text-2 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-2 .u-text-2:hover {
+  transform: translateX(0px) translateY(-5px) scale(1.04) !important;
 } .u-section-3 {
-  background-image: url("images/sss-min.jpg");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
 }
 
 .u-section-3 .u-sheet-1 {
@@ -375,6 +468,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 563px;
   }
