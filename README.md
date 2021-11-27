@@ -1,20 +1,16 @@
 A static website
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
-.\n
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
+.</br>
 [Live Demo](https://VinuXD.github.io)
