@@ -27,10 +27,10 @@
 .u-section-1 .u-social-icons-1 {
   white-space: nowrap;
   min-height: 16px;
-  width: 294px;
+  width: 320px;
   min-width: 196px;
   animation-duration: 1000ms;
-  height: 32px;
+  height: 37px;
   margin: 18px auto 60px;
 }
 
@@ -71,6 +71,7 @@
   }
 
   .u-section-1 .u-social-icons-1 {
+    width: 294px;
     transition-duration: 0.5s;
   }
 }.u-section-2 .u-sheet-1 {
@@ -384,7 +385,8 @@
 
   .u-section-3 .u-text-3 {
     margin-top: -87px;
-    margin-right: 20px;
+    margin-right: 10px;
+    margin-left: 157px;
   }
 
   .u-section-3 .u-text-4 {
@@ -400,11 +402,8 @@
 
   .u-section-3 .u-text-5 {
     margin-top: -87px;
-    margin-right: 20px;
-  }
-
-  .u-section-3 .u-container-layout-3 {
-    padding-bottom: 18px;
+    margin-right: 10px;
+    margin-left: 157px;
   }
 
   .u-section-3 .u-text-6 {
@@ -420,11 +419,8 @@
 
   .u-section-3 .u-text-7 {
     margin-top: -87px;
-    margin-right: 20px;
-  }
-
-  .u-section-3 .u-container-layout-4 {
-    padding-bottom: 18px;
+    margin-right: 10px;
+    margin-left: 157px;
   }
 
   .u-section-3 .u-text-8 {
@@ -440,7 +436,8 @@
 
   .u-section-3 .u-text-9 {
     margin-top: -87px;
-    margin-right: 20px;
+    margin-right: 10px;
+    margin-left: 157px;
   }
 }
 
@@ -455,7 +452,7 @@
 
   .u-section-3 .u-text-2 {
     margin-top: 116px;
-    margin-left: 99px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-image-1 {
@@ -469,12 +466,12 @@
     width: 260px;
     margin-top: 44px;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
   }
 
   .u-section-3 .u-text-4 {
     margin-top: 116px;
-    margin-left: 99px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-image-2 {
@@ -488,12 +485,12 @@
     width: 260px;
     margin-top: 44px;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
   }
 
   .u-section-3 .u-text-6 {
     margin-top: 116px;
-    margin-left: 99px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-image-3 {
@@ -507,12 +504,12 @@
     width: 260px;
     margin-top: 44px;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
   }
 
   .u-section-3 .u-text-8 {
     margin-top: 116px;
-    margin-left: 99px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-image-4 {
@@ -526,7 +523,7 @@
     width: 260px;
     margin-top: 44px;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
   }
 }.u-section-4 .u-sheet-1 {
   min-height: 163px;
