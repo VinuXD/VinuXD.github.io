@@ -36345,14 +36345,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-footer .u-position-1 {
-    margin-top: 23px;
-    margin-right: 360px;
+    margin-top: 17px;
+    margin-right: 363px;
     margin-left: -11px;
     width: 188px;
   }
 
   .u-footer .u-position-2 {
-    margin: -118px 386px 48px 0;
+    margin: -100px 386px 60px 0;
   }
 }
 @media (max-width: 575px) {

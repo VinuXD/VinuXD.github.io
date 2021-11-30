@@ -5,4 +5,6 @@
 * Feedbacks and Suggestions are welcomed [here](https://telegram.me/vinuxd).
 
 
->Click here to see [Live Demo](https://vinuxd.github.io)!!
+# Click here to see [Live Demo](https://vinuxd.github.io) !
+
+> Give a Star if you like my work :)
