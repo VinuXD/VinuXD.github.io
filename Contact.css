@@ -54,12 +54,13 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 254px;
+  min-height: 266px;
 }
 
 .u-section-2 .u-text-1 {
   font-family: GoogleSans-Medium;
-  margin: 80px auto 0;
+  width: 868px;
+  margin: 74px auto 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -67,8 +68,37 @@
   font-size: 0.9375rem;
   background-image: none;
   font-family: GoogleSans-Bold;
-  margin: 36px auto 60px;
+  margin: 30px auto 60px;
   padding: 8px 33px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 341px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 53px;
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 29px;
+  }
 }@font-face {
   font-family: 'GoogleSans-Medium';
   font-style: normal;
