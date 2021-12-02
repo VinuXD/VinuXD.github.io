@@ -11,6 +11,7 @@
   min-height: 751px;
   background-image: none;
   box-shadow: 6px 6px 0px 0 rgba(0,0,0,0.2);
+  animation-duration: 1000ms;
   margin: 129px auto 60px;
 }
 
