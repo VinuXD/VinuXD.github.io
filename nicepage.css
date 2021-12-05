@@ -36238,10 +36238,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
-  width: 153px;
+  width: 152px;
   text-transform: uppercase;
   font-weight: 700;
-  margin: 20px auto 0;
+  font-family: GoogleSans-Bold;
+  height: 136px;
+  margin: 331px auto 0;
 }
 
 .u-header .u-image-1 {
@@ -36271,6 +36273,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-top: 22px;
+  }
+
+  .u-header .u-nav-2 {
+    margin-top: 318px;
   }
 
   .u-header .u-image-1 {

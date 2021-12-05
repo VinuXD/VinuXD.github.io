@@ -137,4 +137,9 @@
   .u-section-1 .u-btn-1 {
     margin-top: 40px;
   }
+}@font-face {
+  font-family: 'GoogleSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/GoogleSans-Bold.ttf);
 }
