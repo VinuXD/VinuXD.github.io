@@ -35251,14 +35251,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: rgba(0,0,0,0.05);
+            background-color: #000000;
         }
 
         .u-button-style.u-custom-color-1,
         .u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(0,0,0,0.05) !important;
+            background-color: #000000 !important;
         }
 
         .u-button-style.u-custom-color-1:hover,
@@ -35273,7 +35273,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(0,0,0,0.05) !important;
+            background-color: #000000 !important;
         }
 
         .u-hover-custom-color-1:hover,
@@ -35298,11 +35298,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(0,0,0,0.05) !important;
+            background-color: #000000 !important;
         }
 
         a.u-link.u-hover-custom-color-1:hover {
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
         }
 
         
@@ -35314,14 +35314,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: rgba(37,37,37,0.66);
+            background-color: rgba(0,0,0,0.65);
         }
 
         .u-button-style.u-custom-color-2,
         .u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(37,37,37,0.66) !important;
+            background-color: rgba(0,0,0,0.65) !important;
         }
 
         .u-button-style.u-custom-color-2:hover,
@@ -35336,7 +35336,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(33,33,33,0.66) !important;
+            background-color: rgba(0,0,0,0.65) !important;
         }
 
         .u-hover-custom-color-2:hover,
@@ -35361,11 +35361,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(37,37,37,0.66) !important;
+            background-color: rgba(0,0,0,0.65) !important;
         }
 
         a.u-link.u-hover-custom-color-2:hover {
-            color: rgba(37,37,37,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
         }
 
         
@@ -35500,14 +35500,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-1,
         .u-separator-custom-color-1:after
         {
-            border-color: rgba(0,0,0,0.05);
-            stroke: rgba(0,0,0,0.05);
+            border-color: #000000;
+            stroke: #000000;
         }
 
         .u-button-style.u-border-custom-color-1
         {
-            border-color: rgba(0,0,0,0.05) !important;
-            color: rgba(0,0,0,0.05) !important;
+            border-color: #000000 !important;
+            color: #000000 !important;
             background-color: transparent !important;
         }
 
@@ -35515,7 +35515,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-1:focus
         {
             border-color: transparent !important;
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
             background-color: transparent !important;
         }
 
@@ -35530,32 +35530,32 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-1,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-1
         {
-            color: rgba(0,0,0,0.05) !important;
-            border-color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
+            border-color: #000000 !important;
         }
 
         .u-link.u-border-custom-color-1[class*="u-border-"]
         {
-            border-color: rgba(0,0,0,0.05) !important;
+            border-color: #000000 !important;
         }
 
         .u-link.u-border-custom-color-1[class*="u-border-"]:hover
         {
-            border-color: rgba(0,0,0,0.05) !important;
+            border-color: #000000 !important;
         }
         
         
         .u-border-custom-color-2,
         .u-separator-custom-color-2:after
         {
-            border-color: rgba(37,37,37,0.66);
-            stroke: rgba(37,37,37,0.66);
+            border-color: rgba(0,0,0,0.65);
+            stroke: rgba(0,0,0,0.65);
         }
 
         .u-button-style.u-border-custom-color-2
         {
-            border-color: rgba(37,37,37,0.66) !important;
-            color: rgba(37,37,37,0.66) !important;
+            border-color: rgba(0,0,0,0.65) !important;
+            color: rgba(0,0,0,0.65) !important;
             background-color: transparent !important;
         }
 
@@ -35563,7 +35563,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-2:focus
         {
             border-color: transparent !important;
-            color: rgba(33,33,33,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
             background-color: transparent !important;
         }
 
@@ -35578,18 +35578,18 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-2,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-2
         {
-            color: rgba(37,37,37,0.66) !important;
-            border-color: rgba(37,37,37,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
+            border-color: rgba(0,0,0,0.65) !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]
         {
-            border-color: rgba(37,37,37,0.66) !important;
+            border-color: rgba(0,0,0,0.65) !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]:hover
         {
-            border-color: rgba(33,33,33,0.66) !important;
+            border-color: rgba(0,0,0,0.65) !important;
         }
         
         
@@ -35694,7 +35694,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1[class*="u-border-"]
         {
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
         }
 
         a.u-button-style.u-text-custom-color-1:hover,
@@ -35706,7 +35706,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-1.active,
         a.u-button-style.u-button-style.u-text-custom-color-1[class*="u-border-"].active
         {
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-1,
@@ -35730,7 +35730,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-1 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-1 .u-nav-link.active
         {
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
         }
 
         .u-text-custom-color-1 .u-svg-link,
@@ -35739,17 +35739,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-1 .u-svg-link,
         .u-text-hover-custom-color-1:focus .u-svg-link
         {
-            fill: rgba(0,0,0,0.05);
+            fill: #000000;
         }
 
         .u-link.u-text-custom-color-1:hover
         {
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
         }
 
         a.u-link.u-text-hover-custom-color-1:hover
         {
-            color: rgba(0,0,0,0.05) !important;
+            color: #000000 !important;
         }
         
         
@@ -35757,7 +35757,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: rgba(37,37,37,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
         }
 
         a.u-button-style.u-text-custom-color-2:hover,
@@ -35769,7 +35769,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-2.active,
         a.u-button-style.u-button-style.u-text-custom-color-2[class*="u-border-"].active
         {
-            color: rgba(33,33,33,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-2,
@@ -35793,7 +35793,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-2 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-2 .u-nav-link.active
         {
-            color: rgba(37,37,37,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
         }
 
         .u-text-custom-color-2 .u-svg-link,
@@ -35802,17 +35802,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-2 .u-svg-link,
         .u-text-hover-custom-color-2:focus .u-svg-link
         {
-            fill: rgba(37,37,37,0.66);
+            fill: rgba(0,0,0,0.65);
         }
 
         .u-link.u-text-custom-color-2:hover
         {
-            color: rgba(33,33,33,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
         }
 
         a.u-link.u-text-hover-custom-color-2:hover
         {
-            color: rgba(37,37,37,0.66) !important;
+            color: rgba(0,0,0,0.65) !important;
         }
         
         
@@ -35994,11 +35994,14 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h5
         {
-        font-weight: 400;
         font-size: 1.25rem;
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: Montserrat,sans-serif;
         }
         h6
         {
@@ -36222,22 +36225,22 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 75px;
+  min-height: 60px;
 }
 
-.u-header .u-image-1 {
-  width: 93px;
-  height: 93px;
-  margin: -9px auto 0 11px;
+.u-header .u-text-1 {
+  font-size: 2.25rem;
+  font-weight: 900;
+  margin: 2px auto 0 20px;
 }
 
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-header .u-menu-1 {
-  margin: -62px 0 0 auto;
+  margin: -46px 0 13px auto;
 }
 
 .u-header .u-nav-1 {
@@ -36251,45 +36254,59 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 75px;
+    min-height: 67px;
+  }
+
+  .u-header .u-text-1 {
+    margin-top: 5px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -53px;
+    margin-top: -46px;
+    margin-bottom: 16px;
   }
 }
-
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 74px;
+    min-height: 75px;
   }
 
-  .u-header .u-image-1 {
-    width: 84px;
-    height: 84px;
-    margin-top: -4px;
-    margin-left: 12px;
+  .u-header .u-text-1 {
+    margin-top: 9px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -58px;
+    margin-top: -46px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 75px;
+  }
+
+  .u-header .u-text-1 {
+    margin-top: 9px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -46px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 78px;
+    min-height: 75px;
   }
 
-  .u-header .u-image-1 {
-    width: 62px;
-    height: 62px;
-    margin-top: 8px;
-    margin-left: 12px;
+  .u-header .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-top: 14px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -48px;
+    margin-top: -41px;
   }
 }
 .u-footer .u-sheet-1 {
