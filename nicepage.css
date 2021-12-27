@@ -36295,18 +36295,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 75px;
+    min-height: 70px;
   }
 
   .u-header .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: 14px;
+    margin-top: 11px;
     margin-left: 0;
   }
 
   .u-header .u-menu-1 {
     margin-top: -41px;
+    margin-bottom: 0;
   }
 }
 .u-footer .u-sheet-1 {
