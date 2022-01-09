@@ -1,10 +1,36 @@
-# Hello Folks!!
+#Generate a cool readME for my website https://vinuxd.me
 
-* Here is the complete source code of my portfolio.
-* Feel free to use my codes in your project *with credits*.
-* Feedbacks and Suggestions are welcomed [here](https://telegram.me/vinuxd).
+#Description
+This is a simple readme generator for my website.
 
 
-# Click here to see [Live Demo](https://vinuxd.github.io) !
+#Installation
 
-> Give a Star if you like my work :)
+
+#Usage
+
+
+#License
+MIT
+
+
+#Contributing
+
+
+#Tests
+[]: # Language: bash
+[]: # Path: .travis.yml
+language: bash
+sudo: false
+cache:
+  directories:
+  - /var/cache/yarn
+script:
+    - yarn
+    - yarn run test
+    
+    []: # Language: bash
+    []: # Path: .travis.yml
+language: bash
+sudo: false
+

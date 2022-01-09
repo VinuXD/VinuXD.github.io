@@ -44,6 +44,10 @@
   .u-section-1 .u-image-1 {
     margin-top: 85px;
   }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 991px) {
